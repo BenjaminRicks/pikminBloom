@@ -20,7 +20,7 @@
     </router-link>
   </div>
   <router-view/>
-  <div class='footer'>TODO ADD FOOTER</div>
+  <div class='footer'>https://github.com/BenjaminRicks/pikminBloom.git</div>
 
 </div>
 
